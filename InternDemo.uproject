@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{62117C94-4F47-39DD-1656-DA8CFA6EC385}",
+	"EngineAssociation": "{C01080E6-408F-D8ED-FF05-B78C8B75A63D}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -19,6 +19,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
 		}
 	]
 }
